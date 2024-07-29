@@ -22,9 +22,17 @@ Terraform will perform the following actions
 terraform init
 terraform validate
 terraform plan
-terraform approve
+terraform apply -auto-approve
 ```
 
 ```
 terraform destroy -auto-approve
 ```
+##
+<img align="center" src="terraform-run.png">
+
+##
+<img align="center" src="Lambda-function.png">
+
+##
+🙂 If you find this code useful please give it a 🌟 and check back for updates! 

@@ -1,4 +1,4 @@
 variable "volume_ids" {
   type    = list(string)
-  default = ["vol-0d08d44e7abfc4582", "vol-05248d182f9229b88"] # Add more volume IDs as needed
+  default = ["vol-024a43d2c1738fec3", "vol-08b897700c9003b75"] # Add more volume IDs as needed
 }
